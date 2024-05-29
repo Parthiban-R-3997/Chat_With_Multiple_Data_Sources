@@ -1,0 +1,12 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+uvicorn
+bs4
+faiss-cpu
+beautifulsoup4
+wikipedia
+arxiv
+langchainhub
